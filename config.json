@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervalidate",
+        "uuid": 5037261,
+        "checksum": "pit2p"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
